@@ -1,3 +1,3 @@
-public class Losango extends Figura {
+public class Losango extends Quadrilatero {
     
 }

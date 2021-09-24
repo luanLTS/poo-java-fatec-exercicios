@@ -1,3 +1,3 @@
-public class Trapezio extends Figura {
+public class Trapezio extends Quadrilatero {
     
 }

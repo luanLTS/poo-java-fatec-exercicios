@@ -1,3 +1,3 @@
-public class Retangulo extends Figura {
+public class Retangulo extends Quadrilatero {
     
 }

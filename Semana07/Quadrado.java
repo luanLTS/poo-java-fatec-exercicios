@@ -1,3 +1,3 @@
-public class Quadrado extends Figura {
+public class Quadrado extends Quadrilatero {
     
 }
