@@ -2,12 +2,14 @@ public class TestaCalculadoraCientifica {
     public static void main(String[] args) {
         CalculadoraCientifica calcC = new CalculadoraCientifica();
 
+        double valor = 144.00;
+
         System.out.println("Calculo das raízes\n");
 
         double result = calcC.raiz(81);
         System.out.printf("Resultado raiz com parametro int = %.3f\n", result);
 
-        result = calcC.raiz(144.00);
+        result = calcC.raiz(valor);
         System.out.printf("Resultado raiz com parametro double = %.3f\n", result);
 
         result = calcC.raiz("9");
